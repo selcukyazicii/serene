@@ -1,0 +1,28 @@
+From: 
+Date: Thu, 06 Apr 2023 16:16:04 +0300
+Subject: Reset Your serene Password
+Message-Id: <BXHJ2S77MJU4.HRR9RAVAAQMH1@zenq>
+To: admin@dummy.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+
+<html>
+<head>
+    <title>Reset your serene password</title>
+</head>
+<body>
+    <p>admin,</p>
+
+    <p>We received a request to change your password on serene.</p>
+
+    <p>Click the link below to set a new password:</p>
+
+    <p><a href="http://localhost:18223/Account/ResetPassword?t=CfDJ8PcA89NMkdRHuiKk4kUmEMZVt6m2t36HpgSG%2BNhUHV6Zd9mwThl%2FI8DO4%2B5BbfsNuJFsu57uHdgY1fM%2B6rv5Mw8zcvxekhWJ031dHZZKVr01pDD6ABvrOYJYqWHFYaxOKexEk8NAbXnkeuQe9q9kPTI%3D">http://localhost:18223/Account/ResetPassword?t=CfDJ8PcA89NMkdRHuiKk4kUmEMZVt6m2t36HpgSG%2BNhUHV6Zd9mwThl%2FI8DO4%2B5BbfsNuJFsu57uHdgY1fM%2B6rv5Mw8zcvxekhWJ031dHZZKVr01pDD6ABvrOYJYqWHFYaxOKexEk8NAbXnkeuQe9q9kPTI%3D</a></p>
+
+    <p>If you don't want to change your password, you can ignore this email.</p>
+
+    Thanks,
+    The "serene" Team
+</body>
+</html>
